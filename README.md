@@ -1,5 +1,5 @@
 ### 👋✨  입니다 ✨👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoongcoco&theme=dark&show_icons=true)
+![midnight-purple][midnight-purple] | `calm` ![calm][calm] | `flag-india` ![flag-india][flag-india] |
 
 ### 📚Portfolio
 <!-- 노션 -->
