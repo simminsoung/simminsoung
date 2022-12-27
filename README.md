@@ -1,4 +1,4 @@
-### 👋✨ 코딩에도 낭만이 있는 심민성 입니다 ✨👋
+### 👋✨  입니다 ✨👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoongcoco&theme=dark&show_icons=true)
 
 ### 📚Portfolio
