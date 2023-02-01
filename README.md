@@ -6,10 +6,7 @@
 <a href="https://sore-cloche-178.notion.site/Bart-Sim-ffd1f334a62a4cf2a7f7e11d72707cea">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
-<!-- 네이버블로그 -->
-<a href="https://blog.naver.com/mmoongcoco">
-   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-</a>
+
 
 ### 💻Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
